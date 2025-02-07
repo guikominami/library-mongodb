@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "library-mongodb-jwtPrivateKey",
+  "db": "library_db"
+}

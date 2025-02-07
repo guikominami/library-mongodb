@@ -1,0 +1,67 @@
+users
+{
+ 	"name": "Guilherme",
+	"email": "teste@gmail.com",
+  "password": "12345"
+}
+
+
+{
+ 		"firstname": "Guilherme",
+  	"lastname": "Kominami",
+  	"phone": "11111111111",
+  	"email": "teste@gmail.com"
+}
+
+{
+ 	"title": "TESTE NOVO AUTH",
+  	"language": "portugues",
+  	"pages": "300",
+  	"published_date": "12-01-1912",
+	"genreId": "679b2e19afd52dd8bdf3dd50",
+	"authors": ["679c7fe25636001f9f3eeb3d", "679c7fe95636001f9f3eeb40"],
+	"numberInStock": 5
+}
+
+
+{
+ 	"title": "Cem anos de Solidao",
+  	"language": "portugues",
+  	"pages": "300",
+  	"published_date": "12-01-1912",
+	"genreId": "679b2e19afd52dd8bdf3dd50",
+	"authors": ["679c7fe25636001f9f3eeb3d"],
+	"numberInStock": 1
+}
+
+
+
+    { "name": "Teste2" },
+	
+	
+{
+ 		"firstname": "José",
+  	"lastname": "Saramago",
+  	"nationality": "português",
+  	"birth_date": "12-01-1912"
+}
+
+{
+ 		"firstname": "autor 1",
+  	"lastname": "sobrenome 1",
+  	"nationality": "português",
+  	"birth_date": "12-01-1912"
+}
+	
+{
+ 		"firstname": "autor 2",
+  	"lastname": "sobrenome 2",
+  	"nationality": "português",
+  	"birth_date": "12-01-1912"
+}
+	RENTALS
+
+{
+	"customerId": "679dd2ec32c1ce7e48d5ac1c",
+	"bookId": "679e38a83754c160fa241e69"
+}
