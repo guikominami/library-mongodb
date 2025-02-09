@@ -9,7 +9,7 @@ const mongoose = require("mongoose");
 const router = express.Router();
 
 router.get("/", async (req, res) => {
-  const rentals = Rental.find().sort("-dateOut");
+  const rentals = await Rental.find().sort("-dateOut");
   res.send(rentals);
 });
 
@@ -46,20 +46,28 @@ router.post("/", auth, async (req, res) => {
   book.numberInStock--;
   book.save();
 
-  // new Fawn.Task()
-  //   .save("rentals", rental)
-  //   .update(
-  //     "books",
-  //     {
-  //       _id: book._id,
-  //     },
-  //     {
-  //       $inc: { numberInStock: -1 },
-  //     }
-  //   )
-  //   .run();
-
   res.send(rental);
 });
+
+router.put("/:id", auth, async (req, res) => {
+  const rental = await Rental.findByIdAndUpdate(
+    req.params.id,
+    { dateReturned: Date.now() },
+  );
+
+  if (!rental)
+    return res.status(404).send("The rental with the given ID was not found.");
+  
+  console.log(rental.book._id);
+  
+  book = await Book.findById(rental.book._id);
+  if (!book) return res.status(400).send("Invalid book.");
+  
+  book.numberInStock++;
+  book.save();
+
+  res.send(rental);  
+});
+
 
 module.exports = router;

@@ -54,10 +54,17 @@ users
 }
 	
 {
- 		"firstname": "autor 2",
-  	"lastname": "sobrenome 2",
+ 	"firstname": "José",
+  	"lastname": "Saramago,
   	"nationality": "português",
-  	"birth_date": "12-01-1912"
+  	"birth_date": "16-11-1922"
+}
+
+{
+ 		"firstname": "Ariano",
+  	"lastname": "Suassuna,
+  	"nationality": "português",
+  	"birth_date": "16-11-1922"
 }
 	RENTALS
 

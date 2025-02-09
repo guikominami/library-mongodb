@@ -22,7 +22,7 @@ module.exports = function () {
   winston.add(
     new winston.transports.MongoDB({
       db: config.get('db'),
-      level: "info",
+      level: "error",
     })
   );
 };
