@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "67a4c46087f412a74a748d74"
+  },
+  "name": "Teenager",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8adee23bf1011860ac7da"
+  },
+  "name": "Fantasy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8aeeb23bf1011860ac7dd"
+  },
+  "name": "Science Fiction",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8aefb23bf1011860ac7df"
+  },
+  "name": "Biografia",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8af0623bf1011860ac7e1"
+  },
+  "name": "Mystery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8af0c23bf1011860ac7e3"
+  },
+  "name": "Horror",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8af1323bf1011860ac7e5"
+  },
+  "name": "Thriller & Suspense",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8af1923bf1011860ac7e7"
+  },
+  "name": "Historical Fiction",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8af3523bf1011860ac7eb"
+  },
+  "name": "Romance",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8af3e23bf1011860ac7ed"
+  },
+  "name": "Women’s Fiction",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8af4b23bf1011860ac7ef"
+  },
+  "name": "Graphic Novel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8af5b23bf1011860ac7f1"
+  },
+  "name": "Children",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8afb823bf1011860ac7f9"
+  },
+  "name": "Autobiography",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8afce23bf1011860ac7fb"
+  },
+  "name": "Food & Drink",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8afdb23bf1011860ac7fd"
+  },
+  "name": "Art & Photography",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8afe923bf1011860ac7ff"
+  },
+  "name": "History",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8aff723bf1011860ac801"
+  },
+  "name": "Science & Technology",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8cd4d3659994c47c57001"
+  },
+  "name": "Fantasy",
+  "__v": 0
+}]
