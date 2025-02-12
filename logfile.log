@@ -34,3 +34,45 @@
 {"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"\" (type string) at path \"_id\" for model \"Author\" Cast to ObjectId failed for value \"\" (type string) at path \"_id\" for model \"Author\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"\" (type string) at path \"_id\" for model \"Author\"\n    at SchemaObjectId.cast (C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\schemaType.js:1255:12)\n    at SchemaType.castForQuery (C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\schemaType.js:1673:17)\n    at C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\schemaType.js:1634:18\n    at Array.map (<anonymous>)\n    at SchemaObjectId.handle$in (C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\schemaType.js:1630:14)\n    at SchemaType.castForQuery (C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\schemaType.js:1669:20)\n    at cast (C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\cast.js:367:39)\n    at Query.cast (C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\query.js:4889:12)\n    at Query._castConditions (C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\query.js:2306:10)","stringValue":"\"\"","value":"","valueType":"string"}
 {"level":"info","message":"Listening on port 3000..."}
 {"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
