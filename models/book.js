@@ -62,7 +62,6 @@ const bookSchema = new mongoose.Schema({
 
 const Book = mongoose.model("Book", bookSchema);
 
-//Validation for the client side. Only pass the ids
 function validateBook(book) {
   const schema = Joi.object({
     title: Joi.string().min(2).required(),

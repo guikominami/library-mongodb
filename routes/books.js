@@ -19,7 +19,7 @@ router.post("/", auth, async (req, res) => {
   if (!genre) return res.status(400).send("Invalid genre.");
 
   const authors = await Author.find({ _id: { $in: req.body.authors } });
-  if (!authors) return res.status(400).send("Invalid authors.");
+  if (authors.length === 0) return res.status(400).send("Invalid authors.");
 
   let book = new Book({
     title: req.body.title,
