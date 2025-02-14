@@ -198,3 +198,171 @@
 {"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
 {"level":"info","message":"Listening on port 3000..."}
 {"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"_message":"Genre validation failed","errors":{"name":{"kind":"minlength","message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","name":"ValidatorError","path":"name","properties":{"message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","minlength":5,"path":"name","type":"minlength","value":"1234"},"value":"1234"}},"level":"error","message":"Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5). Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).","stack":"ValidationError: Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\document.js:3334:32)\n    at C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\document.js:3095:17\n    at C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\schemaType.js:1407:9\n    at processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"_message":"Genre validation failed","errors":{"name":{"kind":"minlength","message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","name":"ValidatorError","path":"name","properties":{"message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","minlength":5,"path":"name","type":"minlength","value":"1234"},"value":"1234"}},"level":"error","message":"Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5). Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).","stack":"ValidationError: Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\document.js:3334:32)\n    at C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\document.js:3095:17\n    at C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\schemaType.js:1407:9\n    at processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"_message":"Genre validation failed","errors":{"name":{"kind":"maxlength","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (20).","name":"ValidatorError","path":"name","properties":{"maxlength":20,"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (20).","path":"name","type":"maxlength","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"level":"error","message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (20). Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (20).","stack":"ValidationError: Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (20).\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\document.js:3334:32)\n    at C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\document.js:3095:17\n    at C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\schemaType.js:1407:9\n    at processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"_message":"Genre validation failed","errors":{"name":{"kind":"maxlength","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (20).","name":"ValidatorError","path":"name","properties":{"maxlength":20,"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (20).","path":"name","type":"maxlength","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"level":"error","message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (20). Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (20).","stack":"ValidationError: Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (20).\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\document.js:3334:32)\n    at C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\document.js:3095:17\n    at C:\\Users\\Guilherme\\Documents\\Projetos\\Programming\\NodeJS\\library-mongodb\\node_modules\\mongoose\\lib\\schemaType.js:1407:9\n    at processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/library..."}
